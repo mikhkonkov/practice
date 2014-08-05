@@ -8,6 +8,7 @@ practice
 * [Simple tool to 'accept theirs' or 'accept mine'](http://stackoverflow.com/questions/914939/simple-tool-to-accept-theirs-or-accept-mine-on-a-whole-file-using-git)
 * [How to update GitHub forked repository?](http://stackoverflow.com/questions/7244321/how-to-update-github-forked-repository)
 * [git rm all deleted files](http://stackoverflow.com/questions/492558/removing-multiple-files-from-a-git-repo-that-have-already-been-deleted-from-disk)
+* [How do you discard unstaged changes in git?](http://stackoverflow.com/questions/52704/how-do-you-discard-unstaged-changes-in-git)
 * [Git pull с ключом --rebase](http://jumanji.name/git-pull-rebase-key/)
 * [статья про гит](https://github.com/mokevnin/coursify/wiki/Git)
 * [документация как делать pull request](https://help.github.com/articles/using-pull-requests)

@@ -3,6 +3,7 @@ practice
 
 ## Git
 
+* [Простое руководство по работе с git](http://rogerdudler.github.io/git-guide/index.ru.html)
 * [gitconfig](https://github.com/mokevnin/dotfiles/blob/master/gitconfig)
 * [Set up ssh for GitBash](https://confluence.atlassian.com/display/BITBUCKET/Set+up+SSH+for+Git)
 * [Simple tool to 'accept theirs' or 'accept mine'](http://stackoverflow.com/questions/914939/simple-tool-to-accept-theirs-or-accept-mine-on-a-whole-file-using-git)

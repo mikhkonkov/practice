@@ -56,6 +56,9 @@ export PS1='[\u@\h \W$(__git_ps1 " (%s)")]\$ '
 * [Clojure — последовательности (sequences)](http://www.pvsm.ru/clojure/21092)
 * http://www.lighttable.com/
 
+## Haskell
+
+* [Учебник по Haskell](http://anton-k.github.io/ru-haskell-book/book/toc.html)
 
 ## Bash
 

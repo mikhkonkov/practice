@@ -40,6 +40,7 @@ export PS1='[\u@\h \W$(__git_ps1 " (%s)")]\$ '
 * [Rails для начинающих](http://rusrails.ru/getting-started-with-rails)
 * [Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html)
 * [Rails for zombies](http://railsforzombies.org/)
+* [Ruby on Rails Tutorial](http://railstutorial.ru/chapters/4_0/beginning)
 
 ## Clojure
 
@@ -88,7 +89,6 @@ env | grep PATH
 * [Цель. Процесс непрерывного совершенствования](http://www.ozon.ru/context/detail/id/4341360/)
 * [Бережливый стартап](http://ru.wikipedia.org/wiki/Бережливый_стартап)
 * [Предметно-ориентированные языки программирования](http://www.ozon.ru/context/detail/id/6967089/)
-* [Ruby on Rails Tutorial](http://railstutorial.ru/chapters/4_0/beginning)
 
 ### Video
 

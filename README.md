@@ -88,6 +88,7 @@ env | grep PATH
 * [Цель. Процесс непрерывного совершенствования](http://www.ozon.ru/context/detail/id/4341360/)
 * [Бережливый стартап](http://ru.wikipedia.org/wiki/Бережливый_стартап)
 * [Предметно-ориентированные языки программирования](http://www.ozon.ru/context/detail/id/6967089/)
+* [Ruby on Rails Tutorial](http://railstutorial.ru/chapters/4_0/beginning)
 
 ### Video
 
@@ -136,6 +137,7 @@ env | grep PATH
 * [Функции первого класса](http://ru.wikipedia.org/wiki/Функции_первого_класса)
 * [Построение приложений командной строки (CLI)](http://habrahabr.ru/post/150950/)
 * [Категория Hask](http://habrahabr.ru/post/133277/)
+* [DNS сервер BIND (теория)](http://habrahabr.ru/post/137587/)
 
 ### TextEditor
 

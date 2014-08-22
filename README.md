@@ -20,6 +20,7 @@ practice
 * [Интерактивное ребазирования](http://uleming.github.io/gitbook/4_Интерактивное_ребазирования.html)
 * [Инструменты Git - Перезапись истории](http://git-scm.com/book/ru/Инструменты-Git-Перезапись-истории)
 * [Current Git branch name in command prompt](http://martinvalasek.com/blog/current-git-branch-name-in-command-prompt)
+* [Удачная модель ветвления для Git](http://habrahabr.ru/post/106912/)
 
 показывает текущую ветку git
 ~~~ shell

@@ -22,12 +22,6 @@ practice
 * [Current Git branch name in command prompt](http://martinvalasek.com/blog/current-git-branch-name-in-command-prompt)
 * [Удачная модель ветвления для Git](http://habrahabr.ru/post/106912/)
 
-показывает текущую ветку git
-~~~ shell
-$ vi  ~/.bashrc
-export PS1='[\u@\h \W$(__git_ps1 " (%s)")]\$ '
-~~~
-
 ## Ruby
 
 * [объектная модель Руби](http://7vn.ru/blog/2011/11/18/object-model/)
@@ -42,6 +36,10 @@ export PS1='[\u@\h \W$(__git_ps1 " (%s)")]\$ '
 * [Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html)
 * [Rails for zombies](http://railsforzombies.org/)
 * [Ruby on Rails Tutorial](http://railstutorial.ru/chapters/4_0/beginning)
+
+## JS
+
+* [Plunker](http://plnkr.co/)
 
 ## Clojure
 

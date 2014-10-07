@@ -21,6 +21,7 @@ practice
 * [Инструменты Git - Перезапись истории](http://git-scm.com/book/ru/Инструменты-Git-Перезапись-истории)
 * [Current Git branch name in command prompt](http://martinvalasek.com/blog/current-git-branch-name-in-command-prompt)
 * [Удачная модель ветвления для Git](http://habrahabr.ru/post/106912/)
+* [Getting Git Right](https://www.atlassian.com/git/)
 
 ## Ruby
 

@@ -16,7 +16,6 @@ practice
 * [статья Хабр про пулл реквест](http://habrahabr.ru/post/125999/)
 * [Git Rebase: руководство по использованию](http://habrahabr.ru/post/161009/)
 * [Думай как Git, руководство по Git](http://web.archive.org/web/20131019113913/http://git.geekjob.ru/epic-mode/)
-* [current branch in bash](http://stackoverflow.com/questions/4133904/ps1-line-with-git-current-branch-and-colors)
 * [Интерактивное ребазирования](http://uleming.github.io/gitbook/4_Интерактивное_ребазирования.html)
 * [Инструменты Git - Перезапись истории](http://git-scm.com/book/ru/Инструменты-Git-Перезапись-истории)
 * [Current Git branch name in command prompt](http://martinvalasek.com/blog/current-git-branch-name-in-command-prompt)
